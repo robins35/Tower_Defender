@@ -1,0 +1,3 @@
+Everything is either from reiner's tilesets or made by myself
+
+textures: http://8bitape.files.wordpress.com/2011/08/textures.png

@@ -1,0 +1,6 @@
+arrow_shoot: http://freesound.org/people/Erdie/sounds/65733/
+intro: http://www.youtube.com/watch?v=TdpO847gg4w
+access_denied: http://freesound.org/people/fins/sounds/146720/
+coincollect: http://freesound.org/people/fins/sounds/146723/
+gamecomplete: http://www.youtube.com/watch?v=-UNJMvW21Xg
+gameover: http://freesound.org/people/Robinhood76/sounds/171200/
